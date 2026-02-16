@@ -1,0 +1,21 @@
+JDK > JRE > JVM
+
+her zaman java sanal makinesine kod yazılır (JVM)
+derleyici sayesinde (JDK) byte code a çevrilir.
+.jar dosyası oluşur
+JRE yorumlayıcı bytecode çevirici
+
+
+aynı sürüm olması önemli
+
+altta module yazanın tikini kaldır (kurarken)
+
+Main fonksiyonunun static olma sebebi program çalıştırılmadan nesne oluşturulamamasıdır.
+
+Scanner in = new Scanner(System.in);
+System.out.pring("Sayı:");
+int sayi = in.nextInt();
+System.out.printf("Sayi:%d",sayi); //c tipi yazdırma
+
+
+"java eclipse programadi" ile çalıştırılır

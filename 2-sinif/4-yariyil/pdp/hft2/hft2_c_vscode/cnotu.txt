@@ -1,0 +1,13 @@
+gcc -o booleanBenzetim booleanBenzetim.c
+gcc -o sabit sabit.c
+gcc -o Program Program.c
+./booleanBenzetim
+./Program.exe
+./sabit.exe
+
+
+float kullanılıyorsa hep float
+double'sa hep double
+aynı kod blogu içinde kullanırken
+
+unicode 2byte
