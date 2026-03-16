@@ -1,5 +1,8 @@
 package hft06;
 
+import hft06prrr.Mat;
+
+
 public class program {
 	
 	public static void degistir(Sayi s) {
@@ -26,6 +29,14 @@ public class program {
 		
 		if(sy.asalMi()) System.out.println("\nSayı asaldır");
 		else System.out.println("\nSayı asal değildir");
+		
+				
+		// PIdeger metodunu çağırıp sonucu değişkene atıyoruz
+		double sonuc = Mat.PIdeger(1000000); 
+				
+		System.out.println("Hesaplanan Pi Değeri: " + sonuc);
+		
+
 	}
 
 	

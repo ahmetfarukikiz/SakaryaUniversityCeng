@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Mat {
 
-	public double PIdeger(double denemeSayisi) {
+	public static double PIdeger(double denemeSayisi) {
 		int basariliVurus = 0;
 		Random rnd = new Random();
 		for(double i = 0; i < denemeSayisi; i++) {
