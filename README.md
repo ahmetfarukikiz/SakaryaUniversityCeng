@@ -18,9 +18,8 @@ Derslerde aldığım notları ve projelerimi paylaşıyorum.
 * [Tatil Sitesi Yönetim Paneli (C# Winforms)](https://github.com/ahmetfarukikiz/tatilSitesiYonetim)
 
 ### Veri Yapıları:
-* [Şekil Çizim Programı (C++)](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng/tree/main/2-sinif/3-yariyil/VY/odevler/VeriYapilariOdev)
-* [Kuyruk Veri Yapısı (C++)](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng/tree/main/2-sinif/3-yariyil/VY/odevler/VeriYapilariOdev_2)
-
+* [Şekil Çizim Programı (C++)](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng/tree/main/2-sinif/3-yariyil/VY/odevler/VeriYapilariOdev/b241210040)
+* [Kuyruk Veri Yapısı (C++)](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng/tree/main/2-sinif/3-yariyil/VY/odevler/VeriYapilariOdev_2/b241210040)
 
 ### Web Teknolojileri:
 * [Portfolyo website (Boostrap4 + JS)](https://github.com/ahmetfarukikiz/WebProjem)
