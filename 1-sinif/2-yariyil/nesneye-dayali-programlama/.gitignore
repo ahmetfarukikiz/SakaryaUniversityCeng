@@ -1,0 +1,53 @@
+# Kullanıcıya özel dosyalar
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Derleme çıktıları (Build results)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio önbellek ve ayar klasörü
+.vs/
+
+# NuGet Paketleri
+*.nupkg
+packages/
+
+# Profiler ve test sonuçları
+*.psess
+*.vsp
+*.vspx
+*.vxtc
+*.coverage
+*.trx
+
+# Diğer geçici ve gereksiz dosyalar
+*.[Cc]ache
+!?*.[Cc]ache/
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Windows resim önbelleği
+Thumbs.db
