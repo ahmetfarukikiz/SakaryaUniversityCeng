@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "stdarg.h"
+#include <stdarg.h>
 
 typedef enum { false, true } boolean; //bool tipini tanımlıyoruz.
 
