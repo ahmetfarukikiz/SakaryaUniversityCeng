@@ -3,6 +3,4 @@
 *.exe
 *.o
 *.out
-bin/
-lib/
 pdp_sablon.py
