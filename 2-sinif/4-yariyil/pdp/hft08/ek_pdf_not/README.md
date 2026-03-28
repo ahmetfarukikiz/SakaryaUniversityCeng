@@ -1,0 +1,1 @@
+ek_pdf_not klasöründeki notlar bana ait değildir. 
