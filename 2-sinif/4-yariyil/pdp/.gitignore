@@ -1,0 +1,44 @@
+# ==========================================
+# Java & Eclipse .gitignore Dosyası
+# ==========================================
+
+# --- Java Çıktıları ---
+*.class
+*.log
+
+# --- Eclipse IDE Dosyaları ---
+.metadata
+#bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+.recommenders/
+
+# Eclipse Proje Yapılandırma Dosyaları
+# (Takım arkadaşlarına senin yerel ayarlarının gitmemesi için bunları dışlamak en iyisidir)
+.project
+.classpath
+.settings/
+.loadpath
+
+# --- Build Araçları (Eğer kullanıyorsan) ---
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle
+.gradle/
+build/
+
+# --- İşletim Sistemi Gizli Dosyaları ---
+# Mac için
+.DS_Store
+# Windows için
+Thumbs.db
