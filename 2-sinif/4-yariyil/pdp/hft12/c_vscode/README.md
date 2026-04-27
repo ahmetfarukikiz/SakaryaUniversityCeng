@@ -1,0 +1,1 @@
+bu hafta c kodu yazılmadı
