@@ -9,6 +9,13 @@ Derslerde aldığım notları ve projelerimi paylaşıyorum.
 
 ## ÖDEV VE PROJELER
 
+### NYAT:
+* [Akıllı Tedarik ve Lojistik Yönetim Sistemi](https://github.com/ahmetfarukikiz/LogisticsApp)
+
+### PDP:
+* [Nüfus Simülasyonu (Java)](https://github.com/ahmetfarukikiz/NufusSimulasyonu)
+* [Nüfus Simülasyonu (C'de OOP Benzetimi)](https://github.com/ahmetfarukikiz/OOP-Simulation-In-C)
+
 ### VTYS:
 * [Oyun Platformu VeriTabanı (PostgreSQL + WinForm)](https://github.com/ahmetfarukikiz/XteamVeriTabani)
 
