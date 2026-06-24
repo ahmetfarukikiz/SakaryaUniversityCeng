@@ -1,0 +1,1 @@
+multimedia logic ile açılmalı
