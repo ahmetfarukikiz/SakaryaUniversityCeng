@@ -5,6 +5,7 @@ Derslerde aldığım notları ve projelerimi paylaşıyorum.
 ## NOTLAR
 
 * [Programlama Dillerinin Prensipleri BSM 208](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng/tree/main/2-sinif/4-yariyil/pdp)
+* [Bilgisayar Organizasyonu BSM 206 ](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng/tree/main/2-sinif/4-yariyil/bilgisayar-organizasyonu)
 * [Veri Yapıları BSM 207](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng/tree/main/2-sinif/3-yariyil/VY/notlar)
 
 ## ÖDEV VE PROJELER
